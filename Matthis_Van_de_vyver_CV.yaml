@@ -1,0 +1,253 @@
+cv:
+  name: Matthis Van de vyver
+  location: Toulouse
+  email: matthis.vandevyver@outlook.fr
+  phone: +33-06-45-13-62-41
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: matthis-vandevyver
+    - network: GitHub
+      username: Fidji32
+  sections:
+    skills:
+      - label: Soft Skills
+        details: test
+      - label: Développement
+        details: Python, PHP ,Java, C, Ada, SQL, HTML/CSS, PL/SQL, Programation Objet, API REST
+      - label: Cloud & Conteneurisation
+        details: Docker, Kubernetes, OpenStack, Vagrant
+      - label: Automatisation
+        details: Bash, CI/CD, Infrastucture as Code (Ansible, Vagrant)
+      - label: Réseaux
+        details: TCP/IP, DNS, DHCP, BGP, OSPF, Routeur, Switch, Firewall, VPN, VLAN, MPLS, QoS, NAT, DMZ
+      - label: Systèmes
+        details: Linux (Debian, Ubuntu), Windows, VMware
+      - label: Langues
+        details: Français *(maternelle)*, Anglais *(B1)*, Espagnol *(A2)* 
+    Expériences professionnelles:
+      - company: Data Analyst *(alternance)*
+        position: CNRS, Centre d'Etudes Spatiales de la Biosphère
+        date:
+        start_date: 2024-08
+        end_date: present
+        location: Toulouse
+        summary:
+        highlights:
+          - Analyse de l’existant pour des algorithmes de reconstruction forestière
+          - Comparaison et évaluation qualitatives des algorithmes *(Python, R, C++ et MATLAB)*
+          - Développement d’une maquette de simulation de peuplements forestiers
+      - company: Data Analyst *(stage)*
+        position: CNRS, Centre d'Etudes Spatiales de la Biosphère
+        date:
+        start_date: 2024-03
+        end_date: 2024-06
+        location: Toulouse
+        summary:
+        highlights:
+          - Extraction et analyse de données multicapteurs *(Python)*
+          - Développement d'un automate, réduisant de 50% le temps d'extraction des données *(Python)*
+          - Formatage des données pour simplifier leur exploitation.
+      - company: Technicien Support Applicatif et Déploiement *(CDD)*
+        position: 3B COM
+        date:
+        start_date: 2023-06
+        end_date: 2023-07
+        location: Toulouse
+        summary:
+        highlights:
+          - Installation de l'application sur les postes clients
+          - Gestion et correction des erreurs en temps réel
+          - Rédaction d'un guide utilisateur 
+      - company: Développeur Full Stack *(stage)*
+        position: 3B COM
+        date:
+        start_date: 2023-04
+        end_date: 2023-06
+        location: Toulouse
+        summary:
+        highlights:
+          - Définition des besoins clients et proposition de solutions applicatives
+          - Conception de la base de données sur *Access* avec *SQL*
+          - Développement de l'application conformément aux besoins clients *(VBA)*
+    Diplômes & formations:
+      - institution: Université de Toulouse
+        area: Informatique, Réseaux et Télécommunications
+        degree: Licence
+        date:
+        start_date: 2024-08
+        end_date: present
+      - institution: IUT de Toulouse
+        area: Informatique parcours Déploiement d'Applications Communicantes et Sécurisées
+        degree: BUT \n(Licence 3 Pro)
+        date:
+        start_date: 2021-09
+        end_date: 2024-06
+    Projets Informatiques:
+      - name: "[Développement d'une application web pour un client](https://github.com/Fidji32/Trisomie_21_Haute_Garonne)"
+        date:
+        start_date: 2022-10
+        end_date: 2023-04
+        location:
+        highlights:
+          - Recueil des besoins client et rédaction d'un cahier des charges
+          - Développement d'une application avec une base de données en *PHP, CSS, HTML et SQL*
+          - Utilisation de méthodes agiles *(SCRUM)*
+      - name: "[Conception et optimisation d'une infrastructure réseau](https://github.com/Fidji32/Multisite_network_infrastructure)"
+        date:
+        start_date: 2023-09
+        end_date: 2024-03
+        location:
+        summary:
+        highlights:
+          - Conception de l’architecture et choix des technologies *(OSPF, BGP, STP, VLAN, MPLS, DNS, DHCP)*
+          - Installation et configuration des services *(Docker)*
+          - Migration vers un cloud on premise avec *OpenStack*
+design:
+  theme: classic
+  page:
+    size: us-letter
+    top_margin: 1cm
+    bottom_margin: 1cm
+    left_margin: 1.2cm
+    right_margin: 1.2cm
+    show_page_numbering: false
+    show_last_updated_date: false
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: Source Sans 3
+    font_size: 10pt
+    leading: 0.6em
+    alignment: left
+    date_and_location_column_alignment: right
+  links:
+    underline: false
+    use_external_link_icon: true
+  header:
+    name_font_family: Source Sans 3
+    name_font_size: 30pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: Source Sans 3
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_family: Source Sans 3
+    font_size: 1.4em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.1em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    top_margin: 0.25cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: '**INSTITUTION**, AREA'
+      degree_column_template: '**DEGREE**'
+      degree_column_width: 2.8cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column_first_row_template: '**COMPANY**, POSITION'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: fr
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: en cours
+  to: –
+  abbreviations_for_months:
+    - Janv
+    - Févr
+    - Mars
+    - Avr
+    - Mai
+    - Juin
+    - Juil
+    - Août
+    - Sept
+    - Oct
+    - Nov
+    - Déc
+  full_names_of_months:
+    - Janvier
+    - Février
+    - Mars
+    - Avril
+    - Mai
+    - Juin
+    - Juillet
+    - Août
+    - Septembre
+    - Octobre
+    - Novembre
+    - Décembre
+rendercv_settings:
+  date: '2025-03-03'
+  render_command:
+  bold_keywords: []
+
+
