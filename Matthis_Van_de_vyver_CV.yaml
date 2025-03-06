@@ -28,44 +28,36 @@ cv:
     Expériences professionnelles:
       - company: Data Analyst *(alternance)*
         position: CNRS, Centre d'Etudes Spatiales de la Biosphère
-        date:
         start_date: 2024-08
         end_date: present
         location: Toulouse
-        summary:
         highlights:
           - Analyse de l’existant pour des algorithmes de reconstruction forestière
           - Comparaison et évaluation qualitatives des algorithmes *(Python, R, C++ et MATLAB)*
           - Développement d’une maquette de simulation de peuplements forestiers
       - company: Data Analyst *(stage)*
         position: CNRS, Centre d'Etudes Spatiales de la Biosphère
-        date:
         start_date: 2024-03
         end_date: 2024-06
         location: Toulouse
-        summary:
         highlights:
           - Extraction et analyse de données multicapteurs *(Python)*
           - Développement d'un automate, réduisant de 50% le temps d'extraction des données *(Python)*
           - Formatage des données pour simplifier leur exploitation.
       - company: Technicien Support Applicatif et Déploiement *(CDD)*
         position: 3B COM
-        date:
         start_date: 2023-06
         end_date: 2023-07
         location: Toulouse
-        summary:
         highlights:
           - Installation de l'application sur les postes clients
           - Gestion et correction des erreurs en temps réel
           - Rédaction d'un guide utilisateur 
       - company: Développeur Full Stack *(stage)*
         position: 3B COM
-        date:
         start_date: 2023-04
         end_date: 2023-06
         location: Toulouse
-        summary:
         highlights:
           - Définition des besoins clients et proposition de solutions applicatives
           - Conception de la base de données sur *Access* avec *SQL*
@@ -74,31 +66,24 @@ cv:
       - institution: Université de Toulouse
         area: Informatique, Réseaux et Télécommunications
         degree: Licence
-        date:
         start_date: 2024-08
         end_date: present
       - institution: IUT de Toulouse
         area: Informatique parcours Déploiement d'Applications Communicantes et Sécurisées
         degree: BUT \n(Licence 3 Pro)
-        date:
         start_date: 2021-09
         end_date: 2024-06
     Projets Informatiques:
       - name: "[Développement d'une application web pour un client](https://github.com/Fidji32/Trisomie_21_Haute_Garonne)"
-        date:
         start_date: 2022-10
         end_date: 2023-04
-        location:
         highlights:
           - Recueil des besoins client et rédaction d'un cahier des charges
           - Développement d'une application avec une base de données en *PHP, CSS, HTML et SQL*
           - Utilisation de méthodes agiles *(SCRUM)*
       - name: "[Conception et optimisation d'une infrastructure réseau](https://github.com/Fidji32/Multisite_network_infrastructure)"
-        date:
         start_date: 2023-09
         end_date: 2024-03
-        location:
-        summary:
         highlights:
           - Conception de l’architecture et choix des technologies *(OSPF, BGP, STP, VLAN, MPLS, DNS, DHCP)*
           - Installation et configuration des services *(Docker)*
