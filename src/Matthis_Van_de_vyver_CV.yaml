@@ -12,7 +12,7 @@ cv:
   sections:
     skills:
       - label: Soft Skills
-        details: test
+        details: Travail en équipe, Adaptabilité, Autonomie, Motivation, Aisance relationnelle, Persévérance
       - label: Développement
         details: Python, PHP ,Java, C, Ada, SQL, HTML/CSS, PL/SQL, Programation Objet, API REST
       - label: Cloud & Conteneurisation
