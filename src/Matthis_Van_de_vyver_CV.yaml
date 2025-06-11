@@ -14,7 +14,7 @@ cv:
       - Étudiant en L3 Informatique, Réseaux et Télécommunications, titulaire d’un BUT Informatique en Déploiement d’Applications Communicantes et Sécurisées, je souhaite approfondir mes compétences en sécurité des systèmes et des réseaux. Passionné par l’optimisation et la protection des infrastructures, je suis motivé à relever de nouveaux défis techniques et à évoluer dans un environnement alliant innovation et rigueur.
     skills:
       - label: Soft Skills
-        details: test
+        details: Travail en équipe, Adaptabilité, Autonomie, Motivation, Aisance relationnelle, Persévérance
       - label: Développement
         details: Python, PHP ,Java, C, Ada, SQL, HTML/CSS, PL/SQL, Programation Objet, API REST
       - label: Cloud & Conteneurisation
